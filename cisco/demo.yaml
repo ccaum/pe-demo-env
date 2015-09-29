@@ -3,3 +3,4 @@ demo:
   cisco:
     directory: cisco
     inherits: base
+    info_url: 'https://confluence.puppetlabs.com/x/mYmkAg'
